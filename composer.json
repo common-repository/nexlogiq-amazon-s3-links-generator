@@ -1,0 +1,15 @@
+{
+  "name": "nexlogiq/nex-aws-link-generate",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sachit Tandukar",
+      "email": "sachit@nexlogiq.com"
+    }
+  ],
+  "require": {
+    "aws/aws-sdk-php": "^3.144"
+  }
+}
